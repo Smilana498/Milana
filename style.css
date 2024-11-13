@@ -1,0 +1,169 @@
+.raf {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color: brown;
+    padding: 5px;
+    margin: 5px;
+    transition: 1s;
+}
+
+.raf:hover {
+    background-color: brown;
+    color: aliceblue;
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+    transition: 1s;
+    border-radius: 20px;
+}
+
+.mew {
+    display: flex;
+    justify-content: center;
+    color: crimson;
+}
+.nn {
+    font-size: 30px;
+    box-shadow: 2px;
+    color: rgb(59, 73, 88);
+    padding: 15px;
+    margin: 15px;
+    transition: 1s;
+}
+
+.nn:hover {
+    background-color:rgb(246, 68, 68);
+    color: rgb(248, 248, 250);
+    border-radius: 30px;
+    transition:1s;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.ww {
+   border-radius: 15px;
+   box-shadow: 5px;
+}
+
+ img {
+    border-radius: 30px;
+ }
+ p {
+    font-size: 30px;
+    box-shadow: 2px;
+    color:black;
+    padding: 15px;
+    margin: 15px;
+    transition: 1s;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ p:hover {
+   background-color: brown;
+   color: aliceblue;
+   border-radius: 15px;
+ }
+
+ .n {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+ }
+
+ .f-f {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .f-f:hover {
+    background-color:rgb(111, 8, 8);
+    color: rgb(232, 88, 88);
+    border-radius: 15px;
+    transition: 1s;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+ }
+.f {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .f:hover {
+    background-color:rgb(111, 8, 8);
+    color: rgb(232, 88, 88);
+    border-radius: 20px;
+    transition: 1s;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+ }
+
+ .k {
+    display: flex;
+    justify-content: center;
+ }
+
+ .k:hover {
+    background-color:rgb(111, 8, 8);
+    color: rgb(232, 88, 88);
+    border-radius: 20px;
+    transition: 1s;
+    font-size: 25px;
+    padding: 20px;
+    margin: 20px;
+ }
+
+ .dd {
+   display: flex;
+   justify-content: center;
+ }
+
+ .dd:hover {
+   background-color:rgb(111, 8, 8);
+   transition: 1s;
+   border-radius: 20px;
+ }
+
+ .z {
+   display: flex;
+   justify-content: space-around;
+}
+
+.z:hover {
+   background-color:rgb(111, 8, 8);
+   color: rgb(232, 88, 88);
+   border-radius: 20px;
+   transition: 1s;
+   font-size: 25px;
+   padding: 20px;
+   margin: 20px;
+}
+
+
+
+.vv {
+   display: flex;
+   justify-content: space-around;
+   align-items: start;
+   flex-direction: column;
+   color: rgb(0, 7, 13);
+   
+}
+
+
+.v {
+   padding: 20px;
+   margin: 10px;
+   border-radius: 8px;
+   transition: 1s;
+}
+
+.v:hover{
+   background-color: darkgrey;
+   transition: 1s;
+}
